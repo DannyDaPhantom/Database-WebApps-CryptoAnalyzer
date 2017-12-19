@@ -1,17 +1,19 @@
 {
-  "name": "Database-WebApps-CryptoAnalyzer",
+  "name": "database-webapps-cryptoanalyzer",
   "version": "1.0.0",
-  "description": "Final Project Repository \r <br>\r Jacob Heifetz-Licht & Daniel Shafir \r <br>\r Database & Website Applications Fall 2017",
-  "main": "main.js",
+  "description": "Daniel Shafir and Jacob Heifetz-Licht",
+  "main": "index2.html",
   "scripts": {
-  	"start": "index2.html",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "a"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/DannyDaPhantom/Database-WebApps-CryptoAnalyzer.git"
   },
-  "keywords": [],
+  "keywords": [
+    "crypto",
+    "analyzer"
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {
