@@ -1,4 +1,4 @@
-#CryptoAnalyzer
+# CryptoAnalyzer
 Final Project Repository 
 <br>
 Jacob Heifetz-Licht & Daniel Shafir 
