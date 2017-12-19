@@ -4,6 +4,7 @@
   "description": "Daniel Shafir and Jacob Heifetz-Licht",
   "main": "index2.html",
   "scripts": {
+  	"start": "index2.html",
     "test": "a"
   },
   "repository": {
