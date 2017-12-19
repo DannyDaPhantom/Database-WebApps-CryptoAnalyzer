@@ -4,7 +4,7 @@
   "description": "Final Project Repository \r <br>\r Jacob Heifetz-Licht & Daniel Shafir \r <br>\r Database & Website Applications Fall 2017",
   "main": "main.js",
   "scripts": {
-  	"start": "main.js",
+  	"start": "index2.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
