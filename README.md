@@ -1,8 +1,6 @@
 # CryptoAnalyzer
-Final Project Repository
-
 Robinhood for Coinbase.
-<br>
+<br><br>
 A cryptocurrency investment tracking app.
-<br>
+<br><br>
 See in depth returns, and simple profit and cost analysis for popular cryptocurrencies.
